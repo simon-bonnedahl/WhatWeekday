@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.eebc5621.css",
-    "main.js": "/static/js/main.bd1b42b4.js",
-    "static/js/787.f4eadc2b.chunk.js": "/static/js/787.f4eadc2b.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.eebc5621.css.map": "/static/css/main.eebc5621.css.map",
-    "main.bd1b42b4.js.map": "/static/js/main.bd1b42b4.js.map",
-    "787.f4eadc2b.chunk.js.map": "/static/js/787.f4eadc2b.chunk.js.map"
+    "main.css": "/whatweekday.simonbonnedahl.dev/static/css/main.eebc5621.css",
+    "main.js": "/whatweekday.simonbonnedahl.dev/static/js/main.bbbdf1df.js",
+    "static/js/787.f4eadc2b.chunk.js": "/whatweekday.simonbonnedahl.dev/static/js/787.f4eadc2b.chunk.js",
+    "static/media/logo.svg": "/whatweekday.simonbonnedahl.dev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/whatweekday.simonbonnedahl.dev/index.html",
+    "main.eebc5621.css.map": "/whatweekday.simonbonnedahl.dev/static/css/main.eebc5621.css.map",
+    "main.bbbdf1df.js.map": "/whatweekday.simonbonnedahl.dev/static/js/main.bbbdf1df.js.map",
+    "787.f4eadc2b.chunk.js.map": "/whatweekday.simonbonnedahl.dev/static/js/787.f4eadc2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eebc5621.css",
-    "static/js/main.bd1b42b4.js"
+    "static/js/main.bbbdf1df.js"
   ]
 }
