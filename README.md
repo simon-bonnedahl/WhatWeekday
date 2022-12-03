@@ -1,3 +1,3 @@
 # WhatWeekday
 
-[Web](https://simon-bonnedahl.github.io/WhatWeekday/)
+[Live here](https://simon-bonnedahl.github.io/WhatWeekday/)
